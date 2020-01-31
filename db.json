@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mapee",
+      "middleName": "Yeah",
+      "lastName": "Sebastian",
+      "age": "28",
+      "activeUser": null
+    },
+    {
+      "id": 2,
+      "firstName": "Kobe",
+      "middleName": "A",
+      "lastName": "Bryant",
+      "age": "24",
+      "activeUser": null
+    },
+    {
+      "id": 3,
+      "firstName": "Michael",
+      "middleName": "B",
+      "lastName": "Jordan",
+      "age": "52",
+      "activeUser": null
+    },
+    {
+      "id": 5,
+      "firstName": "Tim",
+      "middleName": "H",
+      "lastName": "Duncan",
+      "age": "53",
+      "activeUser": null
+    }
+  ]
+}

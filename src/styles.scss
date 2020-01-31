@@ -1,0 +1,11 @@
+// regular style toast 
+@import '~ngx-toastr/toastr';
+
+
+.btn-default {
+    width: 100px;
+}
+
+tr.active td { 
+    background-color:green;
+}
